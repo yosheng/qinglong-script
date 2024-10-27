@@ -9,5 +9,5 @@
 ### 添加仓库
 
    ```shell
-   ql repo https://github.com/yosheng/qinglong-script "baletu_" "" "sendNotify"
+   ql repo https://github.com/yosheng/qinglong-script "" "" "sendNotify"
    ```
